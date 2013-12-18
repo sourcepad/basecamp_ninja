@@ -1,4 +1,1 @@
-module BasecampNinja
-  class Project < OpenStruct
-  end
-end
+module BasecampNinja; class Project < OpenStruct; end; end

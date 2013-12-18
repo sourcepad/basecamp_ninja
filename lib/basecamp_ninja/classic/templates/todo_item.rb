@@ -1,0 +1,1 @@
+module BasecampNinja; module Classic; class TodoItem < OpenStruct; end; end; end

@@ -1,0 +1,1 @@
+module BasecampNinja; module Classic; class Milestone < OpenStruct; end; end; end

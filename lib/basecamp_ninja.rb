@@ -6,6 +6,6 @@ require 'pry'
 require 'ostruct'
 require 'basecamp_ninja/version'
 require 'basecamp_ninja/client'
+require 'basecamp_ninja/classic/client'
 
-module BasecampNinja
-end
+module BasecampNinja; end

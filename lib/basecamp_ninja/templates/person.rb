@@ -1,4 +1,1 @@
-module BasecampNinja
-  class Person < OpenStruct
-  end
-end
+module BasecampNinja; class Person < OpenStruct; end; end

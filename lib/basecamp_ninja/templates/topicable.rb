@@ -1,4 +1,1 @@
-module BasecampNinja
-  class Topicable < OpenStruct
-  end
-end
+module BasecampNinja; class Topicable < OpenStruct; end; end

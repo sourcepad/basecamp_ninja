@@ -1,0 +1,1 @@
+module BasecampNinja; module Classic; class Attachment < OpenStruct; end; end; end

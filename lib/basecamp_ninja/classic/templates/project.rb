@@ -1,0 +1,1 @@
+module BasecampNinja; module Classic; class Project < OpenStruct; end; end; end
