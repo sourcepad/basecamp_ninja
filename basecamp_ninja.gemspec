@@ -5,7 +5,7 @@ require 'basecamp_ninja/version'
 
 Gem::Specification.new do |s|
   s.name          = 'basecamp_ninja'
-  s.version       = BasecampNinja::VERSION
+  s.version       = BasecampNinja::Version
   s.date          = '2013-11-19'
   s.summary       = "basecamp api"
   s.description   = "Basecamp API Ruby Wrapper"
