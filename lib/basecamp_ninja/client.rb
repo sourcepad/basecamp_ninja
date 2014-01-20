@@ -11,7 +11,6 @@ module BasecampNinja
     def initialize(basecamp_id = nil, token = nil)
       @basecamp_id = basecamp_id
       @token = token
-      @version = version
     end
 
     def connection
