@@ -4,8 +4,13 @@ module BasecampNinja
   class Client
     attr_accessor :token, :basecamp_id, :connections
 
+    include BasecampNinja::Modules::Attachment
+    include BasecampNinja::Modules::CalendarEvent
+    include BasecampNinja::Modules::Message
     include BasecampNinja::Modules::Person
     include BasecampNinja::Modules::Project
+    include BasecampNinja::Modules::Todo
+    include BasecampNinja::Modules::Todolist
     include BasecampNinja::Modules::Topic
     
     def initialize(basecamp_id = nil, token = nil)

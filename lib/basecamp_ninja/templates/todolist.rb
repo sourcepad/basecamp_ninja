@@ -1,0 +1,1 @@
+module BasecampNinja; class Todolist < OpenStruct; end; end

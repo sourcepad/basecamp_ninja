@@ -10,6 +10,8 @@ module BasecampNinja
       property :url
       property :archived
       property :starred
+
+      property :class_name, default: 'Project'
     end
   end
 end

@@ -10,4 +10,6 @@ module BasecampNinja; module Renderer; module Person
   property :created_at
   property :updated_at
   property :url
+
+  property :class_name, default: 'Person'
 end; end; end

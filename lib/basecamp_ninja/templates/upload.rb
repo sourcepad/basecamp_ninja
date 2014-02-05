@@ -1,0 +1,1 @@
+module BasecampNinja; class Upload < OpenStruct; end; end
