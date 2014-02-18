@@ -1,0 +1,1 @@
+module BasecampNinja; class Assignee < OpenStruct; end; end

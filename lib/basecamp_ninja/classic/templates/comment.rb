@@ -1,0 +1,1 @@
+module BasecampNinja; module Classic; class Comment < OpenStruct; end; end; end

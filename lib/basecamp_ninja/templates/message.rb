@@ -1,0 +1,1 @@
+module BasecampNinja; class Message < OpenStruct; end; end

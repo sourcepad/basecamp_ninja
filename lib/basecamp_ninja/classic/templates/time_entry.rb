@@ -1,0 +1,1 @@
+module BasecampNinja; module Classic; class TimeEntry < OpenStruct; end; end; end

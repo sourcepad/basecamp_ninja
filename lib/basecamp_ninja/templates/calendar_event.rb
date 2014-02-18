@@ -1,0 +1,1 @@
+module BasecampNinja; class CalendarEvent < OpenStruct; end; end
