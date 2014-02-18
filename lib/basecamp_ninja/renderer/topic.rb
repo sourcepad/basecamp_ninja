@@ -7,8 +7,8 @@ module BasecampNinja; module Renderer; module Topic
   property :created_at
   property :updated_at
   property :attachments
-  property :creator, class: BasecampNinja::Person, extend: Renderer::Person, as: :last_updater
-  property :topicable, class: BasecampNinja::Topicable, extend: Renderer::Topicable
+<<property :creator, class: BasecampNinja::Person, extend: Renderer::Person, as: :last_updater
+==property :topicable, class: BasecampNinja::Topicable, extend: Renderer::Topicable
 
   property :class_name, decorator_scope: true
 
